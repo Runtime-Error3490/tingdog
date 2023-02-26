@@ -1,2 +1,1 @@
-# tingdog
-woof woof here comes my dog🐕🐕
+TinDog Starting Files
